@@ -1,7 +1,6 @@
 # 📋 Task Management System
 
-> **CSC456 – Advanced Web Programming**
-> **Project 3 – Full-Stack Web Application Development with Authentication and Cloud Deployment**
+> **Full-Stack Web Application Development with Authentication and Cloud Deployment**
 
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
